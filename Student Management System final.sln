@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student Manager", "Student Manager.csproj", "{62569012-4023-42D4-8293-C489EDACF676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JIDBFramework", "..\JIDBFramework\JIDBFramework.csproj", "{9CD69DD1-9FC9-4274-A8D3-1C33A4F0F4E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62569012-4023-42D4-8293-C489EDACF676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62569012-4023-42D4-8293-C489EDACF676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62569012-4023-42D4-8293-C489EDACF676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62569012-4023-42D4-8293-C489EDACF676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD69DD1-9FC9-4274-A8D3-1C33A4F0F4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD69DD1-9FC9-4274-A8D3-1C33A4F0F4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD69DD1-9FC9-4274-A8D3-1C33A4F0F4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD69DD1-9FC9-4274-A8D3-1C33A4F0F4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98CBC690-8EED-4320-A16E-BACCB0A2A359}
+	EndGlobalSection
+EndGlobal
